@@ -279,4 +279,183 @@ Introduction to Career Skills in Data Analytics
 
   5) Tranforming Data
   ----------------------
+      A) Transforming data in Excel with Power Query
+      -----------------------------------------------
+      B) Transforming data in SQL
+      -------------------------------
+          Sql--> Structured query Language
+          --> A computer language that works with data in a relational database management system.
+          Microsoft SQL Server
+          ---------------------
+              A relational database management system with the primary function of stroring and retrieving data.
+
+        Basic queries  allow you to select data from the database.
+        SELECT :- fields from the table
+        FROM :- table name
+        WHERE :- filter data
+        ORDER BY :- sort data
+
+      C) Transforming data in PowerBI
+      ----------------------------------
+          Power BI
+          ----------
+              --> Tranforms data
+              --> persents data
+
+      D) Common cleaning and tranformation
+      -------------------------------------
+            --> Spaces are characters that need to be removed.
+            --> Leading spaces are at the front of a field.
+            --> Trailing spaces are at the end of a field.
+            --> Use functions like TRIM or CLEAN ro remove spaces.
+            --> Concatenate -- Combine text fields together.
+            --> Replace text with valid text.
+            --> Change the case of text.
+            --> Remove duplicates.
+            --> Transform data types.
           
+      E) Using built-in functions
+      ----------------------------
+            --> Power B provides built-in aggregate functions to make analysis easy.
+      
+      Chapter Quiz
+      --------------
+              1) To be a data analyst, you must be able to manually calculate every single math calculation you need.
+                      --> FALSE
+                      
+              2) Which option describes parsing text?
+                      --> breaking parts of text out of a field to create fields
+                      
+              3) Which statements are required in a basic SQL query?
+                      --> SELECT   FROM
+
+              4) You need to create a status field in Power Query for any order that has 30 days between the start of the order and the ship date. 
+                  It will provide a status value of “Over 30 Days.” Which built-in function can you use?
+                      --> Conditional Column
+                      
+              5) Spaces can be used as delimiters.
+                      --> TRUE
+
+              6) What are the two core functions that Power BI offers to data analysts?
+                      --> transformation of data and presentation of data
+
+6) Modeling Data
+-----------------
+      A) Relational Database
+      --------------------------------
+            Relational Database
+            Relational Database Management System (RDBMS)
+            ---------------------------------------------
+            ---> A relational database (RDBMS) is a type of database that stores and organizes
+                    data in tables with defined relationships, making it easy to see how 
+                    different data structures relate to each other.
+
+            ** The rules for effective storage are eifferent from the rules used to combine data for reporting
+            
+
+
+            
+      B) Modeling data for Power BI
+      --------------------------------
+        Relationships
+        --------------
+            --> One to One
+            --> One to Many
+            --> Many to One
+            --. Many to Many
+      
+      C) Master data management
+      ---------------------------
+          Master Data
+          ------------
+              --> Customer and address information
+              --> Project names
+              --> Product names
+              
+          If you don't have a master data management system, you need to developa plan to keep a consistent list of data.
+          
+      
+      D) Unstructured data
+      ---------------------
+          Structured Data
+          ----------------
+              --> Data that fits neatly into tables or spreadsheets
+
+          Semi-structured data
+          --------------------
+                --> A mixture of structured and unstructured data.
+
+          Unstructured Data
+          -----------------
+                  --> Requires our brain to review and provide context
+                      eg.image, pdf
+                      
+      Chapter Quiz
+      --------------
+          1) What feature in Power BI automatically attempts to detect relationships?
+                  --> AutoDetect (Power BI tries to join data automatically through 
+                  AutoDetect. You should always confirm that the relationships 
+                  it establishes are correct.)
+
+            2) RDBMS stands for relational database machine systems.
+                  --> False
+                  
+            3) A PDF of an organization’s annual report would be considered _____.
+                  --> unstructured data (Unstructured data does not fit neatly into 
+                  tables/spreadsheets. Examples of unstructured data are videos, 
+                  pictures, and PDFs.)
+
+            4)  What is an example of Master Data Management rules?
+                  --> Master Data Management aims to keep a clean, complete, and accurate list of the master data for the organization.
+                  This allows everyone in an organization who works with the data to have the same consistent list of information.
+
+
+  7) Visualizing Data
+  --------------------
+      A) Visualization methods and best practises
+      ------------------------------------------- 
+      
+      B) Creating reports to visualize your data over pages
+      -----------------------------------------------------
+      
+      C) Creating a dashboards for reporting
+      ----------------------------------------
+
+      D) Gathering requirements for visualizations
+      --------------------------------------------
+      
+      E) Presenting data challenges effectively to others
+      ---------------------------------------------------
+      
+      F) Finalizing dashboards
+      ------------------------
+      
+      G) Adding dashboard filters
+      ---------------------------
+      
+      H) Modifying dashboard filters
+      -------------------------------
+      
+      Chapter Quiz
+      -------------
+
+  8) Job Mapping in the Data Anlysis Field
+  ----------------------------------------
+      A) Data workers
+      -----------------
+
+      
+      B) Data analytics
+      -----------------
+
+      
+      C) Data engineers
+      --------------------
+      
+      D) Data Scientists
+      ------------------
+      
+      Chapter Quiz
+      ---------------
+      
+
