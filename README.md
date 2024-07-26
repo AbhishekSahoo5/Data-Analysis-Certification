@@ -98,5 +98,54 @@ Introduction to Career Skills in Data Analytics
             --> Does the data met the requirement?
             --> Is the data in the right format?
 
-2) Introduction to Business Intelligence
-------------------------------------------
+  2) Introduction to Business Intelligence
+  ------------------------------------------
+    A) What is BI and the value to Business?
+    
+          BI(Business Intelligence)
+          -------------------------
+            --> Data and Business intelligence gives you the information and ability to make intelligent business decision.
+            --> Stores data that is iportant to the business and its porocesses
+            --> Business need to define the matrics that help track the overall health of the organiztion.
+
+    B) How are Business Analytics and BI are different
+    ---------------------------------------------------
+    
+          Business Intelligance
+          ---------------------
+            --> It represents in single number
+            --> Understanding where we stand on any givenday
+            
+          Business Analytics
+          -------------------
+            --> Analysing data and creating more from it.
+            --> Seeing trends and predicting future outcomes.
+            
+          Data Analysis
+          -------------
+            --> Analysing and capturing data to compare over time.
+
+    C) How data can provide intelligance to the organization
+    ---------------------------------------------------------
+          --> Mail delivered to office.
+          --> Employee retieve mail three times per day.
+          --> Employees print and scan information.
+    
+          Data Points
+          -----------
+            --> Walking distance to printer
+            --> Time to talk
+            --> Time spent in line
+    
+              10 people
+              260 business days
+              x hours spent in transit
+    
+              x hours saved by providing printers at desks
+    
+              --> The most effective data analyst develops skills and a relationship with data.
+
+
+  3) Identifying Data
+  -------------------
+          
