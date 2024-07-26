@@ -243,39 +243,39 @@ Introduction to Career Skills in Data Analytics
   ------------------
     A) Describing data best practise
     ---------------------------------
-      Do you have ab approach to data?
+          Do you have ab approach to data?
 
     B) Accessing and adapting the data for transactions
     ----------------------------------------------------
-      Data Profiling
-      --------------
-        We can use the data we have right in front of us to learn about it at a higher level.
-          --Tell us how much data we have in a set
-          --Helps use validate out numbers
-          --shows what we're facing when we're ready to transform our data.
-
-        count--> count everything that is highlighted
-        Numeric count--> count only numeric value
+          Data Profiling
+          --------------
+            We can use the data we have right in front of us to learn about it at a higher level.
+              --Tell us how much data we have in a set
+              --Helps use validate out numbers
+              --shows what we're facing when we're ready to transform our data.
+    
+            count--> count everything that is highlighted
+            Numeric count--> count only numeric value
 
     C) Understanding the rules of the data
     --------------------------------------
-      Business Rules
-      --------------
-        --> Defines and controls the flow of data.
-        --> When to do with data that meets certain criteria.
-        --> What needs to happpen in the transformation of data.
-      Some rules can be specific and have technical requirements.
+          Business Rules
+          --------------
+            --> Defines and controls the flow of data.
+            --> When to do with data that meets certain criteria.
+            --> What needs to happpen in the transformation of data.
+          Some rules can be specific and have technical requirements.
 
     D) Tips on preparing the data in Excel
     ---------------------------------------
-      Preparing the data
-      -------------------
-        clean the tranform data to meet the requirement
-
-        Power query editor
-          --> replace value
-          --> change type of value
-          --> split using delimiter
+          Preparing the data
+          -------------------
+            clean the tranform data to meet the requirement
+    
+            Power query editor
+              --> replace value
+              --> change type of value
+              --> split using delimiter
 
   5) Tranforming Data
   ----------------------
