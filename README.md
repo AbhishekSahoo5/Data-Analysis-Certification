@@ -200,3 +200,83 @@ Introduction to Career Skills in Data Analytics
 
     C) Discovering and interpreting existing data
     ---------------------------------------------
+          Data around a data
+          --------------------
+            1) Personal Data(DOB)
+            2) Work data (job post)
+            3) Real time data (heart beat)
+            4) Geographical data(location)
+            5) social data(brand we wear)
+    
+          Types of company data
+          ----------------------
+            --> people managemant
+            --> Marketing and sales
+            --> Purchasing
+            --> Warehouse
+            --> shipment
+            --> Accounting
+    
+          Wheather systems are connected or not, they should hold the same record of information.
+
+    D) Data Sources and structure
+    --------------------------------
+          Data has
+          ------------
+              --> Values
+              --> types
+              --> field name
+              --> Record
+    
+            Types of systems
+            -----------------
+              --> spreadsheets
+              --> Database
+              --> Data warehouses
+    
+              --Data warehouses has refined tables from production systems
+              --Database includes hundreds of data and details, with only certain fields  needed for reporting.
+              --Data warehouses store data and keep it safe.
+              --Data lacks help organizations capture data to store before's its refined for reporting needs.
+
+  4) Preparing Data
+  ------------------
+    A) Describing data best practise
+    ---------------------------------
+      Do you have ab approach to data?
+
+    B) Accessing and adapting the data for transactions
+    ----------------------------------------------------
+      Data Profiling
+      --------------
+        We can use the data we have right in front of us to learn about it at a higher level.
+          --Tell us how much data we have in a set
+          --Helps use validate out numbers
+          --shows what we're facing when we're ready to transform our data.
+
+        count--> count everything that is highlighted
+        Numeric count--> count only numeric value
+
+    C) Understanding the rules of the data
+    --------------------------------------
+      Business Rules
+      --------------
+        --> Defines and controls the flow of data.
+        --> When to do with data that meets certain criteria.
+        --> What needs to happpen in the transformation of data.
+      Some rules can be specific and have technical requirements.
+
+    D) Tips on preparing the data in Excel
+    ---------------------------------------
+      Preparing the data
+      -------------------
+        clean the tranform data to meet the requirement
+
+        Power query editor
+          --> replace value
+          --> change type of value
+          --> split using delimiter
+
+  5) Tranforming Data
+  ----------------------
+          
