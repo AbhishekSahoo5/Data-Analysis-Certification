@@ -148,4 +148,55 @@ Introduction to Career Skills in Data Analytics
 
   3) Identifying Data
   -------------------
-          
+    A) Understanding the value of data-driven decision making
+    ----------------------------------------------------------
+          --> Company buys a product at cost.
+          --> Company sells product at list price.
+          --> Difference between cost and list price is margin
+          --> Profit is made by the margin
+    
+          Costs
+          -----
+              -> Sales process
+              -> Storage
+              -> Packaging
+              -> Delivery
+              -> Infracture to automate sales
+              -> Payroll
+    B) Questioning techniques to collect the right data
+    -----------------------------------------------------
+      
+          Overcomming Analysis Panalysis
+          ------------------------------
+              --> Build an approach
+              --> Think through standard questions
+              --> Use critical thinking
+              --> Practise events listening
+              --> Soft skill matter the most
+    
+          Exposure the solving real problems with data solutions will help build your approach.
+    
+          Basic Questions to Ask
+          ----------------------
+              --> Have these products ever been profitable ?
+              --> If they were profitable in the past, at what point in time ?
+              --> What is different about now V/S then ?
+              --> Did the wholesale cost change ?
+              --> Did the list price change ?
+              --> Did the cost of storing or delivery change ?
+    
+              wholesale cost -- no change
+              list price --  no change
+              cost to deliver -- no significant change
+              cost to store -- steadily increasing
+    
+          Next round of Qs
+          ----------------
+              --> Is it only these five products that are impacted by the increase in storage?
+              --> How can we reduce storage costs?
+              --> What type of price increase can be justified?
+    
+          Each round leads to more round of Qs.
+
+    C) Discovering and interpreting existing data
+    ---------------------------------------------
