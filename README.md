@@ -414,18 +414,39 @@ Introduction to Career Skills in Data Analytics
   --------------------
       A) Visualization methods and best practises
       ------------------------------------------- 
-      
+          Be the person you are designing for.
+
+          Visualization Best practises
+          -----------------------------
+              --> Be consistent
+              --> Keep it simple
+              --. Title,label and add tooltips appropriately
+
+        
       B) Creating reports to visualize your data over pages
       -----------------------------------------------------
+          --> Reports with may line items and several pages are not best suited for a dashboarf representation.
+          --> Not all data is best consumed using a dashboard
+          --> Power BI Report Builder allows you to build paginated reports.
+          --> Paginated report allow you to connect to data.
+          --> Whst determines the style of your report is the need for how the data is best visualized and how it will be consumed.
+
       
       C) Creating a dashboards for reporting
       ----------------------------------------
+      
+
 
       D) Gathering requirements for visualizations
       --------------------------------------------
       
       E) Presenting data challenges effectively to others
       ---------------------------------------------------
+            --> Talk to leadership throughout the process.
+            --> Don't wait to communicate challenges. 
+            --> Communicate about what you see in the data you do have.
+            --> Double check everything.
+            
       
       F) Finalizing dashboards
       ------------------------
@@ -438,6 +459,25 @@ Introduction to Career Skills in Data Analytics
       
       Chapter Quiz
       -------------
+          Q1) Mockups help communicate the navigation of information.
+                --> FALSE (Mockups demonstrate overall appearance, but a wire frame allows you to show the navigation between visuals.)
+
+          Q2) What is an example of a visual element that should be included where appropriate in a dashboard?
+                --> Be sure to title, label, and add tooltips appropriately. People should be able to read a title for context, understand the labels, and hover to get additional insight needed to support the visual—not just see the same thing that visual already shows.
+
+          Q3) What type of command do slicers perform in a Power BI Dashboard?
+                --> Filter  (Slicers are another way of filtering. They narrow the portion of the dataset that is shown in the other report visualizations. Slicers are a useful way to filter information and focus on a specific portion of the dataset.)
+
+          Q4) What type of information is best displayed in a paginated report?
+                  --> list of invoices for the year(Paginated reports can provide valuable reporting when your data expands over many pages and can easily be published or printed.)
+
+          Q5) You notice that the numbers for your data project do not seem to match what the team expects. What is the first thing on your task list?
+                  --> Verify your data set to ensure you have all necessary data and that you have not introduced an error.
+
+            Q6) What shows by default on the tooltip for any visual you create?
+                      --> the fields used for the visual(By default, when you add fields to a visual, they will display in the default tooltip.)
+          
+            
 
   8) Job Mapping in the Data Anlysis Field
   ----------------------------------------
