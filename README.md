@@ -483,17 +483,53 @@ Introduction to Career Skills in Data Analytics
   ----------------------------------------
       A) Data workers
       -----------------
-
+              ---> Export data out of systems
+              ---> Build weekly or monthly reports
+              ---> Work with functions
       
       B) Data analytics
       -----------------
+              ---> Deeper understanding of data systems
+              ---> More knowledge about database designs
+              ---> Basic SQL querying skills
+              ---> Understand the data governance plan
+              ---> Clean and transform data to meet requirements of the project
+              ---> Create functions of varying types
+              ---> Work with statistics and aggregate functions
 
+              growth opportunities
+              --------------------
+                      --> Basic statistics
+                      --> Writing functions
+                      --> Understand joins
+                      --> active listening
+                      --> data storytelling
+                      --> critical thinking
       
       C) Data engineers
-      --------------------
+      ------------------
+              --> Translate large amounts of data into data sets
+              --> Know how to refine data sets into smaller sets
+              --> Have more access to data
+              --> Understand security and privacy
+
+              Growth oppurtunites
+              -------------------
+                    --> Structured and unstructured data
+                    --> Relational database systems design methodologies
+                    --> Database design
+
+              ETL :- Extract, Transform, Load
+      
       
       D) Data Scientists
       ------------------
+            --> Develop tools and instruments that provide valuable insight.
+            --> Interpret large sets
+            --> Build machine learning models
+            --> Present outcomes and make suggestions
+            --> Provide support and strategy to data governance plan.
+      
       
       Chapter Quiz
       ---------------
