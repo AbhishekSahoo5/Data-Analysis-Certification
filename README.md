@@ -529,9 +529,14 @@ Introduction to Career Skills in Data Analytics
             --> Build machine learning models
             --> Present outcomes and make suggestions
             --> Provide support and strategy to data governance plan.
+
+            Growth
+            ------
+                --> Programming thinking
+                --> Code
+                --. Statistics
       
       
-      Chapter Quiz
-      ---------------
+Certificate link:- https://www.linkedin.com/learning/certificates/d35e717821e6b76e3eef410c3d7be1b8d018d162b6db0b900b07c7248bc7ce34
       
 
