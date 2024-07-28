@@ -537,6 +537,58 @@ Introduction to Career Skills in Data Analytics
                 --. Statistics
       
       
-Certificate link:- https://www.linkedin.com/learning/certificates/d35e717821e6b76e3eef410c3d7be1b8d018d162b6db0b900b07c7248bc7ce34
+    Certificate link:- https://www.linkedin.com/learning/certificates/d35e717821e6b76e3eef410c3d7be1b8d018d162b6db0b900b07c7248bc7ce34
       
 
+Learning Data Analytics: 1 Foundations
+----------------------------------------
+  4) Getting Started with Data Project
+  ------------------------------------
+        A) Getting Started with Data Project
+        ---------------------------------------
+              Best Practices for Data Analysts
+              --------------------------------
+                1) Don't make up an answer
+                2) Don't publish or write something until you verify the results.
+                3) Be prepared for meetings and use your time effictively.
+                4) Take notes of everything that is in relationship to your presenting. 
+                5) Provide detailed information about what you're presenting.
+                6) Don't put data on-screen before diving in.
+                7) Use a slide deck to keep pace.
+                8) Ask others for their best practices.
+                
+        B) Discovering common beginner mistakes
+          -----------------------------------------
+                Common Mistakes for New Analysts
+                ---------------------------------
+                    1) Not spending enough time up front to understand the data.
+                    2) Not looking for duplicated data in the set.
+                    3) Not doing preliminary math like sums, averages, and counts.
+                    4) Not capturing record counts.
+                    5) Not documenting questions and follow-up answers.
+                    6) Not verifying the numbers with some other method.
+                    7) Not asking fquestions out of fear.
+                    8) Not asking for documentation.
+                    9) Not analyzing existing or canned reports.
+                    
+              
+        C) Learning Excel datasets
+        ----------------------------
+        
+        D) Learning Database datasets
+        -------------------------------
+              --> Look at table names.
+              --> Look at sample of the data.
+              --> Look at relationships.
+              --> Look at queries.
+
+
+        E) Understanding original data
+        ------------------------------
+    
+        F) Understanding Truths
+        -----------------------
+                1) Statistics Truth --> Statistical significance of your results. 
+                2) Data Truth --> What the available data shows the analyst.
+                3) Business Truth --> A measure of the production of an organization.
+                
