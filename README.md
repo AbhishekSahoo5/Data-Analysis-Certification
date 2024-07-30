@@ -591,4 +591,42 @@ Learning Data Analytics: 1 Foundations
                 1) Statistics Truth --> Statistical significance of your results. 
                 2) Data Truth --> What the available data shows the analyst.
                 3) Business Truth --> A measure of the production of an organization.
-                
+
+
+5) Data Importingm Exporting and connections
+-----------------------------------------------
+    A) Learning about data governance
+    ----------------------------------
+          Data Governance
+          ---------------
+              A plan that ensures data sets are understandable, correct, secure, and high quality.
+
+          1. Determine Ownership of data
+          2. Keep notes of where data is comming from and access procedures.
+          3. Request access to only the data you need.
+
+
+    B) Understanding source data
+     ----------------------------
+          Source Data
+          -----------
+              --> Data that comes from an original and unmanipulated source.
+            
+    C) Working with flat files
+    ---------------------------
+          Types of Flat files
+          --------------------
+              1) Comma -separated value(CSV)
+              2) Tab delimited
+              3) Fixed width
+              
+    D) Working with connections
+    ----------------------------
+    E) Creating datasets for others
+    --------------------------------  
+            Best Practise
+            ----------------
+                  1) There's no such thing as too much information and documentation.
+                  2) Create a working field list of the data with README tab in a dataset.
+                  3) Consider who has access to the data and disconnect, if necessary.
+                  
