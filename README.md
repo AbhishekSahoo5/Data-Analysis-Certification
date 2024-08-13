@@ -542,7 +542,19 @@ Introduction to Career Skills in Data Analytics
 
 Learning Data Analytics: 1 Foundations
 ----------------------------------------
-  4) Getting Started with Data Project
+  1) Getting Started with Data Analysis
+  --------------------------------------
+  2) Fundamentals of Data Understanding
+  --------------------------------------
+  3) Key Elements to Understand when starting Data Analysis
+  ----------------------------------------------------------
+  4) Getting Started with Data Cleaning
+  -------------------------------------
+  5) Data Importing, Exporting, and Connections
+  ----------------------------------------------
+
+  
+  7) Getting Started with Data Project
   ------------------------------------
         A) Getting Started with Data Project
         ---------------------------------------
