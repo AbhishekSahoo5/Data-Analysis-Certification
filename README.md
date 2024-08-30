@@ -682,3 +682,20 @@ Learning Data Analytics: 1 Foundations
     -----------------
 
 
+Learning Data Analytics part 2: Extending and Applying Core Knowledge
+----------------------------------------------------------------------
+   1. Working with Business Data
+   2. 
+   Building Data Sets with Queries
+
+   Chart Data Anytime and Anywhere
+   
+   Pivot Data Anytime and Anywhere
+   
+   Building in Power BI Desktop
+   
+   Power Query Tips and Tricks for Data Analysts
+   
+   Presenting Data in Meetings
+   
+   Conclusion
