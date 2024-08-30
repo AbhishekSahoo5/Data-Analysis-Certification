@@ -639,9 +639,46 @@ Learning Data Analytics: 1 Foundations
 
   6) Getting Started with Data Cleaning
   --------------------------------------  
+    A) Understanding ETL in data
+    B) Cleaning data using ETL Excel macros
+    C) Cleaning data with Power Query
+    D) Working with reusable data
+    E) Modeling data with queries
+    F) Challenge: Rename headers in Power Query
+    G) Solution: Rename headers in Power BI
 
   7) Applying Common Techniques for All Data Analysts
   ----------------------------------------------------
     A) Convert data in Power Query
     ------------------------------
+    
+    B) Finding and removing duplicates
+    -----------------------------------
+        To make customized column ---> Add Columns--> Custom columns
         
+    C) Changing case and replace values
+    -----------------------------------
+        right click---> Transform
+
+    D) Combining data with merge columns
+    ------------------------------------
+
+    E) Combining data with merge columns
+    ------------------------------------
+
+    F) Creating logical functions
+    ------------------------------
+
+    G) Buiding aggregate datasets
+    ------------------------------
+
+    H) Challenge: Count and amounts of Products
+    -------------------------------------------
+
+    I) Solution: Count and amounts of products
+    ------------------------------------------
+
+    J) Chapter Quiz
+    -----------------
+
+
