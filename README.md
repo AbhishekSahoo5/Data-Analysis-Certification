@@ -685,10 +685,62 @@ Learning Data Analytics: 1 Foundations
 Learning Data Analytics part 2: Extending and Applying Core Knowledge
 ----------------------------------------------------------------------
    1. Working with Business Data
-   2. 
-   Building Data Sets with Queries
+  ---------------------------------
+      A) Understanding business rules
+      --------------------------------
+      B) Understanding noise in data
+      ---------------------------------
+          --> Unnecessary information in a data set that gets in the way of analysis
+          
+      C) Breaking down the ask
+      ---------------------------
+          Universal Questions
+              1. What system contains the data?
+              2. Are there multiple sources of data?
+              3. What are the key terms and definitions?
+              4. What format do they want/need to retrieve the information?
+              5. Who needs to receive this information?
+              6. Are customers stored in the same system for all 10 years?
+              7. How do you define customer?
+              8. How do you want to see the data?
+              9. Where are all the products?
+              10. What do you consider "top performing"?
+              11. Where are the sales?
+              12. How do I get the cost of data to deterine margin?
+        Who, What, Where, When, Why
+        A data analyst must understand the ask along with the data.      
 
-   Chart Data Anytime and Anywhere
+      D) Challenge: Getting started
+      ------------------------------
+        Top 50 customers based on highest order amounts
+        
+      E) Solution: Getting started
+      ------------------------------
+        Potential Sources of Noise
+            -> PickedByPersonID
+            -> ContactPersonID
+            -> IsUndersupplyBackordered
+            -> Comments
+            -> DeliveryInstructions
+            -> InternalComments
+            -> PickingCompletedWhen
+            -> LastEditedBy
+            -. LastEditedWhen
+          
+          Requirements:
+              1. Remove the duplicates based on customerID
+              2. Sort by the highest dollar amount
+              3. Filter for the top 50 items in the list
+              4. Copy to a new sheet
+            
+      F) Quiz
+      ---------
+
+   2. Building Data Sets with Queries
+  -----------------------------------
+
+   3. Chart Data Anytime and Anywhere
+  -------------------------------------
    
    Pivot Data Anytime and Anywhere
    
