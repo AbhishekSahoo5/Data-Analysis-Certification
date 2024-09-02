@@ -738,9 +738,48 @@ Learning Data Analytics part 2: Extending and Applying Core Knowledge
 
    2. Building Data Sets with Queries
   -----------------------------------
+    A) Understanding queries
+    -------------------------
+      Query
+      ---------
+            Statements created in a data tool to provide data needed.
+
+            Append query
+            Uodate query
+            Distinct query
+            Total query
+
+    B) Buliding basic select queries
+    ------------------------------------
+      1. Identify potential customers using business rules.
+      2. Define top customers and confirm with stakeholders.
+
+          (*) pulls all fields from the table
+
+    C) Building distinct queries
+    -----------------------------
+        Defining a unique list is a necessary skill for data analyst
+
+        
+    D) Building queries with joins
+    ----------------------------------
+            
+
+    
+    E) Building append queries
+    --------------------------
+    F) Building total queries
+    --------------------------
+    G) Challenge: Total number of orders by customers
+    ---------------------------------------------------
+    H) Solution: Total number orders by customer
+    -----------------------------------------------
+    i) Chapter Quiz
+    ----------------
 
    3. Chart Data Anytime and Anywhere
   -------------------------------------
+      
    
    Pivot Data Anytime and Anywhere
    
