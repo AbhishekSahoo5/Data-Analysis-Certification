@@ -763,13 +763,16 @@ Learning Data Analytics part 2: Extending and Applying Core Knowledge
         
     D) Building queries with joins
     ----------------------------------
-            
-
+          
     
     E) Building append queries
     --------------------------
+      Union:-  An action that allows you to merge data together.
+      
+      
     F) Building total queries
     --------------------------
+    
     G) Challenge: Total number of orders by customers
     ---------------------------------------------------
     H) Solution: Total number orders by customer
@@ -781,12 +784,16 @@ Learning Data Analytics part 2: Extending and Applying Core Knowledge
   -------------------------------------
       
    
-   Pivot Data Anytime and Anywhere
+   4. Pivot Data Anytime and Anywhere
+  ---------------------------------------
    
-   Building in Power BI Desktop
+   5. Building in Power BI Desktop
+  ------------------------------------
    
-   Power Query Tips and Tricks for Data Analysts
+   6. Power Query Tips and Tricks for Data Analysts
+  --------------------------------------------------
    
-   Presenting Data in Meetings
+   7. Presenting Data in Meetings
+   -------------------------------
    
    Conclusion
