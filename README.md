@@ -782,6 +782,60 @@ Learning Data Analytics part 2: Extending and Applying Core Knowledge
 
    3. Chart Data Anytime and Anywhere
   -------------------------------------
+
+      A) Ad hoc reporting
+      ---------------------
+        Informal request that are not a standard part of your workload
+
+      B) Building basic charts visuals
+      ---------------------------------
+
+      C) Visuals using conditional formatting
+      ----------------------------------------
+        
+
+      D) Setting templates and default charts
+      ----------------------------------------
+
+      E) Linking versus embedding charts and data
+      --------------------------------------------
+
+      F) Challenge: Ad hoc presentation
+      ---------------------------------
+
+      G) Solution: Ad hoc presentation
+      ---------------------------------
+
+      H) Quiz
+      ----------
+        Q1)When working with charts, you can save time by _____.
+
+                • setting the default chart and building your own custom templates
+                Using the default chart and building your templates will help you save time on reformatting the charts.
+                
+        Q2)What is an ad hoc report?
+        
+                    • a one-time request on data
+                    An ad hoc report is a one-time request. It sometimes becomes a standard or organizational report.
+      
+        Q3)You create an Excel chart for 2021 year-end sales and want to include it in a PowerPoint presentation. How should you do this?
+                    --Insert a picture.
+        
+        Q4)What is the key difference between embed and link?
+                    • Embed makes a copy of the data and link establishes a link to the data. 
+                    Embed will make a copy of the data and link will establish a link to the data. If your data changes in the source file, only the link will update the data automatically.
+        
+        
+        Q5)Your company, GreenPath, wants to use its medium green brand color on all visuals. How can you do this easily and quickly?
+                    • Use a theme.
+                    This enables you to quickly apply the company's brand colors to your visuals, including font colors and effects.
+        
+        
+        
+        Q6)Building basic visuals will allow you to _____.
+                    • spot issues in your data early 
+                    When first working with lots of data, a basic visual at the beginning will allow you to spot issues early on and take care of them.
+      
       
    
    4. Pivot Data Anytime and Anywhere
