@@ -840,6 +840,7 @@ Learning Data Analytics part 2: Extending and Applying Core Knowledge
    
    4. Pivot Data Anytime and Anywhere
   ---------------------------------------
+  
    
    5. Building in Power BI Desktop
   ------------------------------------
